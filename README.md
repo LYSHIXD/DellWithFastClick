@@ -1,9 +1,10 @@
 # DellWithFastClick
-处理快速多次点击的情况，防止功能或者界面多次执行或显示
+处理快速多次点击的情况，防止功能多次执行或界面多次显示
 
 ## [![JitPack](https://jitpack.io/v/LYSHIXD/DellWithFastClick.svg)](https://jitpack.io/#LYSHIXD/DellWithFastClick)
 
 ## 如何使用 
+
 
 #### 注意：普通点击处理间隔为500ms,Activity跳转处理间隔为800ms,足以应付绝大多数情况
 
