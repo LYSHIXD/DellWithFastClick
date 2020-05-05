@@ -1,4 +1,4 @@
-package com.lyshixd.dellwithfastclick;
+package com.lyshixd.fastclick;
 
 import android.view.View;
 

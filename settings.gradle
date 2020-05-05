@@ -1,2 +1,3 @@
 rootProject.name='DellWithFastClick'
 include ':app'
+include ':fastclick'
