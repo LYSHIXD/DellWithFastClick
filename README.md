@@ -23,7 +23,7 @@ allprojects {
 添加依赖
 
 ```
-implementation 'com.github.LYSHIXD:DellWithFastClick:latestVersion'
+implementation 'com.github.LYSHIXD:DellWithFastClick:1.0.0'
 
 ```
 
